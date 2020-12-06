@@ -2,4 +2,5 @@
 !.gitignore
 *.txt
 *.pdf
+*.sh
 utils/
